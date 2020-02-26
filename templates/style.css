@@ -1,0 +1,9 @@
+html {
+  box-sizing: border-box;
+}
+
+.cardStyle {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
